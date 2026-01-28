@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Ārruppaṭai"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "P"
+    given-names: "Deepak"
+doi: 10.5281/zenodo.18400596
+version: 1.0.1
+date-released: 2026-01-28
+repository-code: https://github.com/deepakslm1/arruppadai
+license: MIT
